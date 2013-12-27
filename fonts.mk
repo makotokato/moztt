@@ -29,6 +29,8 @@ PRODUCT_COPY_FILES += \
     frameworks/base/data/fonts/DroidSerif-BoldItalic.ttf:system/fonts/DroidSerif-BoldItalic.ttf \
     frameworks/base/data/fonts/MTLmr3m.ttf:system/fonts/MTLmr3m.ttf \
     frameworks/base/data/fonts/MTLc3m.ttf:system/fonts/MTLc3m.ttf \
+    external/naver-fonts/NanumGothic.ttf:system/fonts/NanumGothic.ttf \
+    external/naver-fonts/NanumGothicBold.ttf:system/fonts/NanumGothicBold.ttf \
     $(NULL)
 
 PRODUCT_PACKAGES += \
